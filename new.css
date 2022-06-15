@@ -1,0 +1,46 @@
+body {
+  background: url(./images/time.jpg) no-repeat center center/cover;
+}
+
+#reg {
+  text-align: center;
+  margin-top: 200px;
+  height: 300px;
+  width: 500px;
+  background-color: grey;
+  border-radius: 40px;
+  margin-left: 450px;
+}
+
+#reg #new-user {
+  margin-top: 100px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+#reg #inputs {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+#reg #button #ticket {
+  width: 100px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 1px, solid red;
+  height: 50px;
+}
+
+#reg #button #ticket:hover {
+  cursor: pointer;
+}
+
+#reg span {
+  color: white;
+  letter-spacing: 10px;
+}
+/*# sourceMappingURL=new.css.map */
